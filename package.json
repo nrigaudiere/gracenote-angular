@@ -1,0 +1,19 @@
+{
+  "name": "gracenote-angular",
+  "version": "0.0.1",
+  "description": "Gracenote with AngularJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrigaudiere/gracenote-angular.git"
+  },
+  "author": "Nicolas Rigaudière",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrigaudiere/gracenote-angular/issues"
+  },
+  "homepage": "https://github.com/nrigaudiere/gracenote-angular#readme"
+}
